@@ -1,0 +1,31 @@
+@font-face {
+     font-family: 'PlayfairDisplay';
+     src: url('../fonts/PlayfairDisplay-VariableFont_wght.ttf');
+   }
+   
+   @font-face {
+     font-family: 'PlayfairDisplayBold';
+     src: url('../fonts/PlayfairDisplay-Bold.ttf');
+   }
+   
+   @font-face {
+     font-family: 'RobotoRegular';
+     src: url('../fonts/Roboto-Regular.ttf');
+   }
+   
+   @font-face {
+     font-family: 'RobotoBold';
+     src: url('../fonts/Roboto-Bold.ttf');
+   }
+   
+
+
+////////////////////////////////////////// Fonts
+
+$font__primary: 'PlayfairDisplay', Georgia, serif;
+
+$font__primary-bold: 'PlayfairDisplayBold', Georgia, serif;
+
+$font__secondary: 'RobotoRegular', sans-serif;
+
+$font__secondary-bold: 'RobotoBold', sans-serif;
